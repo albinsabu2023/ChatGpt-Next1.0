@@ -21,7 +21,8 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
 ```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
+pnpm create next-app --example with-tailwindcss with-tailwindcss-app![Screenshot (72)](https://github.com/albinsabu2023/ChatGpt-Next1.0/assets/126412402/59c70f47-b9b0-4dd8-b3b0-ce80e9968d53)
+
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
